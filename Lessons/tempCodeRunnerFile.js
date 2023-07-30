@@ -1,2 +1,0 @@
-"Shubham";
-console.log(name
