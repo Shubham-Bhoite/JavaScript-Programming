@@ -10,6 +10,6 @@
 
 - [Primitives & Objects](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Primitives.js)
 
-- [Operators in JavaScript]()
+- [Operators in JavaScript](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Operators.js)
 
-- [Conditional Statements]()
+- [Conditional Statements](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ConditionalStatements.js)
