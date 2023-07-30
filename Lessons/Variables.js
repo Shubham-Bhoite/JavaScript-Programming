@@ -7,5 +7,5 @@ console.log(a)
 a = "Shubham"
 console.log(a)
 // let 4shubham = 4 // Not allowed this will throw an error
-// let var = 7
+
 
