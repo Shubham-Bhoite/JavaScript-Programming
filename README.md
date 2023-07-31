@@ -13,3 +13,9 @@
 - [Operators in JavaScript](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Operators.js)
 
 - [Conditional Statements](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ConditionalStatements.js)
+
+- [For Loop]()
+
+- [While Loop]()
+
+- [Functions In JavaScript]()
