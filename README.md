@@ -14,8 +14,8 @@
 
 - [Conditional Statements](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ConditionalStatements.js)
 
-- [For Loop]()
+- [For Loop](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ForLoop.js)
 
-- [While Loop]()
+- [While Loop](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/WhileLoop.js)
 
-- [Functions In JavaScript]()
+- [Functions In JavaScript](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/FunctionInJS.js)
