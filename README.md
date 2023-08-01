@@ -20,6 +20,6 @@
 
 - [Functions In JavaScript](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/FunctionInJS.js)
 
-- [String]()
+- [String](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Strings.js)
 
-- [String Methods]()
+- [String Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/StringMethods.js)
