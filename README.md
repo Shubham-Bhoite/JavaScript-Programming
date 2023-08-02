@@ -24,6 +24,6 @@
 
 - [String Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/StringMethods.js)
 
-- [Array]()
+- [Array](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Arrays.js)
 
-- [Array Methods]()
+- [Array Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ArrayMethods.js)
