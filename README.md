@@ -28,5 +28,5 @@
 
 - [Array Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ArrayMethods.js)
 
-- [Loops With Array]()
+- [Loops With Array](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/LoopsInArray.js)
 
