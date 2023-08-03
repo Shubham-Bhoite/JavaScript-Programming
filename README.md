@@ -37,4 +37,4 @@
 
 ## Exercises:
 
-- [Guess the number Game]()
+- [Guess the number Game](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Exercises/Ex-1.js)
