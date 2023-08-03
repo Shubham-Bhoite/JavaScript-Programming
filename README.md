@@ -30,3 +30,11 @@
 
 - [Loops With Array](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/LoopsInArray.js)
 
+
+
+
+
+
+## Exercises:
+
+- [Guess the number Game]()
