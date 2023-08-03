@@ -30,9 +30,9 @@
 
 - [Loops With Array](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/LoopsInArray.js)
 
-- [Console Methods]()
+- [Console Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ConsoleTypes.js)
 
-- [Windows Info.]()
+- [Windows Info.](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Windows.md)
 
 
 
