@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  #joke{
+    background-color: #160606;
+    color: #e7d6d6;
+    font-size: 1.5em;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+  }
+  

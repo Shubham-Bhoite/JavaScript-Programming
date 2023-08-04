@@ -34,9 +34,13 @@
 
 - [Windows Info.](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Windows.md)
 
-- [Navigation]()
+- [Navigation](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/Navigation)
+
+- [DOM Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/DOM-Methods)
 
 
 ## Exercises:
 
 - [Guess the number Game](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Exercises/Ex-1.js)
+
+- [Random Joke]()
