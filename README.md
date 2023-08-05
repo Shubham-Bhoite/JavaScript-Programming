@@ -46,3 +46,5 @@
 - [Guess the number Game](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Exercises/Ex-1.js)
 
 - [Random Joke](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-2.js)
+
+- [EX-3]()
