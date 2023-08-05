@@ -38,7 +38,7 @@
 
 - [DOM Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/DOM-Methods)
 
-- [Attribute Methods]()
+- [Attribute Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/AttributesMethods)
 
 
 ## Exercises:
