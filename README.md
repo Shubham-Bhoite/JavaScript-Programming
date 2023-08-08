@@ -42,7 +42,7 @@
 
 - [Insertion Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/InsertionMethods)
 
--[]
+- [Browser Events](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/BrowserEvents.md)
 
 
 
