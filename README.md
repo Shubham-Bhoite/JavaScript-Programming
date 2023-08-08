@@ -40,6 +40,15 @@
 
 - [Attribute Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/AttributesMethods)
 
+- [Insertion Methods](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/InsertionMethods)
+
+-[]
+
+
+
+
+
+
 
 ## Exercises:
 
