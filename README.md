@@ -46,6 +46,14 @@
 
 - [Call Back]()
 
+- [Promise]()
+
+- [then & catch callback]()
+
+- [Promise Chaining]()
+
+- [Multiple Handlers]()
+
 
 
 
