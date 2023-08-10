@@ -54,8 +54,15 @@
 
 - [Multiple Handlers](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/MultipleHandlers.html)
 
+- [Promise API](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/Promise-API)
 
+- [Async Await](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Lessons/AsyncAwait)
 
+- [Try Catch](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/TryCatch.html)
+
+- [Error Object](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/ErrorObject.html)
+
+- [Finally keyword](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Finally.html)
 
 
 ## Exercises:
