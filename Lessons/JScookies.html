@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Cookies</title>
+</head>
+<body>
+    To see cookies, plzzz go through the console 
+
+    <script>
+
+        console.log(document.cookie)
+document.cookie = "name=shubham9850"
+document.cookie = "name2=shubham11543"
+document.cookie = "name=shubham"
+let key = prompt("enter your key")
+let value = prompt("enter your value")
+document.cookie = `${encodeURIComponent(key)}=${encodeURIComponent(value)}`
+console.log(document.cookie)
+    </script>
+</body>
+</html>
