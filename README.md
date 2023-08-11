@@ -64,7 +64,9 @@
 
 - [Finally keyword](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Finally.html)
 
+- [Fetch API](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/FetchAPI.html)
 
+- [JavaScript Cookies](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/JScookies.html)
 
 
 
