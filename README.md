@@ -72,17 +72,17 @@
 
 - [Session Storage](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/SessionStorage.html)
 
-- [Prototype]()
+- [Prototype](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Prototype.html)
 
-- [Class & Object]()
+- [Class & Object](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Classes%26Objects.html)
 
-- [Constructor]()
+- [Constructor](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Constructors.html)
 
-- [Inheritance]()
+- [Inheritance](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Inheritance.js)
 
-- [Overriding Constructor]()
+- [Overriding Constructor](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/OverridingConstructor.js)
 
-- [Getters & Setters]()
+- [Getters & Setters](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/getters%26setters.html)
 
 
 
