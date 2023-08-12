@@ -68,7 +68,21 @@
 
 - [JavaScript Cookies](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/JScookies.html)
 
+- [Local Storage](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/LocalStorage.html)
 
+- [Session Storage](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/SessionStorage.html)
+
+- [Prototype]()
+
+- [Class & Object]()
+
+- [Constructor]()
+
+- [Inheritance]()
+
+- [Overriding Constructor]()
+
+- [Getters & Setters]()
 
 
 

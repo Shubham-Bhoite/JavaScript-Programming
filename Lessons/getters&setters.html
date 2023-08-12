@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapter 11</title>
+</head>
+<body>
+    Getters and Setters
+
+    <script>
+
+        class Bird {
+            constructor(name) {
+              this._name = name
+            }
+            fly() {
+              console.log("pappa ki pari")
+            }
+            get name() {
+              return this._name
+            }
+          
+            set name(newName) {
+              this._name = newName
+            }
+          
+          }
+          
+          class sparrow extends Bird {
+            eatgrains() {
+              console.log("Eating grains")
+            }
+          }
+          
+          let a = new sparrow("black")
+          a.fly()
+          console.log(a.name)
+          a.name = "crow"
+          console.log(a.name)
+          let c = 56
+          
+          console.log(a instanceof Bird)
+          console.log(a instanceof sparrow)
+          console.log(c instanceof Bird)
+          
+    </script>
+</body>
+</html>

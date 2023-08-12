@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prototype</title>
+</head>
+<body>
+    Prototype and setting of prototype
+
+    <script>
+
+        let a = {
+            name2: "Shubham",
+            language: "JavaScript",
+            run: () => {
+              alert("self run")
+            }
+          }
+          console.log(a)
+          
+          
+          let p = {
+            run: () => {
+              alert("run")
+            }
+          }
+          
+          p.__proto__ = {
+            name: "Rajanikant "
+          }
+          
+          a.__proto__ = p
+          a.run()
+          console.log(a.name)
+          
+
+    </script>
+</body>
+</html>
