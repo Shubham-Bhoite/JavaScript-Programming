@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Note App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  </head>
+  <body>
+    <nav class="navbar bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand">TODO LIST</a>
+        
+      </div>
+    </nav>
+  
+    <div id="alert">
+      <div id="galert" class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Wow!!</strong> Your list is added
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+      
+      <div id="balert" class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>please</strong> Don't add empty list
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+    </div>  
+  
+    <div class="container my-3">
+    <h1 class="text-center">TODO LIST</h1>
+ 
+       <div class="m-4">
+<input type="text" class="form-control " id="title" placeholder="Text">
+       </div>
+      
+      <button  class="btn btn-primary mx-3" id="btn">ADD</button>
+    
+  </div>
+        <h1 class="m-4">LIST </h1>
+  <div id="note" class="row container-fluid">
+    
+  <div class="m-3">
+    <div class="card my-2 text-bg-primary mb-3" style="max-width: 18rem;">
+      <div class="card-header">Header</div>
+      <div class="card-body">
+        <h5 class="card-title">Primary card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <button class="btn btn-danger ">DELETE</button>
+      </div>
+    </div>
+  </div>
+  
+        </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="script.js" type="text/javascript" charset="utf-8"></script>
+  </body>
+</html>

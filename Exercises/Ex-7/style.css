@@ -1,0 +1,184 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    background-position: center;
+  z-index: -1;
+    overflow: hidden;
+    
+  }
+  
+  #heading{
+    color: 
+  #000000;
+    text-shadow: -4px 1px 16px 
+  black;
+    font-size: 4rem;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    width: 28rem;
+    margin: auto;
+  }
+  
+  .container3{
+    margin: 20px 0.1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:8rem;
+    color:rgba(0,0,0,0.8);
+  
+  }
+  
+  .content{
+    margin: auto;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .clock2{
+    padding:0.1rem;
+      background:
+  black;
+    color: 
+  white;
+    border-radius: 20px;
+    font-size: 7rem;
+    text-align: center;
+    margin:1%;
+    height:10rem;
+    width:10rem;
+    border: 2px solid 
+  black; 
+    box-shadow:2px -2px 40px 1px 
+  black;
+  }
+  #am{ 
+    position: absolute;
+    transform: translate(4rem,1rem);
+    background:
+  black;
+    color: 
+  white;
+      border-radius: 4px;
+    font-size: 1.2rem;
+    text-align: center;
+    height:2rem;
+    width:2.2rem;
+    border: 0.4px solid 
+  #363636;
+    box-shadow:2px -2px 40px 1px 
+  black;
+     transition: all 200ms ease-in-out;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+  }
+  #seconds{
+    color: 
+  #f23636;
+  }
+  .blinkthis{
+    opacity:0;
+  }
+  .container3 span {
+    margin: 3px 0px;
+    transition: all 410ms ease ;
+  }
+  .but4{
+     font-size: 1rem;
+    border:3px solid 
+  #ffffff;
+  background:rgba(251, 126, 84, 0.58) !important;
+    border-radius: 20px;
+    color:
+  #ffffff;
+    display:block;
+    width:8rem;
+    height:2.925rem;
+    margin:32px auto;
+    transition: all 150ms ease-in-out;
+  }
+  .but4:hover{
+     font-size: 1rem;
+    cursor:pointer;
+    border:2px solid 
+  #ffffff;
+    background:rgba(0,0 ,0 , 0.8)  !important;
+  box-shadow:2px -2px 50px  
+  black;
+   transform:scale(1.05);
+   
+  }
+  .but4:active{
+     border:2px solid 
+  #ffffff;
+    background:rgba(251, 126, 84, 0.3)  !important;
+    transform:scale(1);
+  }
+  .but4:visited{
+      background:rgba(251, 126, 84, 0.3);
+  }
+  .in{
+    font-size: 1rem;
+   font-family: 'Zen Dots', cursive;
+    color: 
+  white;
+  }
+  .no{
+  border:0px;
+    background:none;
+    
+  }
+  
+  .bye{
+   opacity: 0;
+    animation: ba 200ms ease-in-out 1 both;
+  }
+  @keyframes ba{
+    from {
+      transform:translate(4rem,1rem);
+    }
+    to{
+      transform:translate(4.8rem,1rem);
+    }
+  }
+  .timenum{
+    font-size: 7rem;
+    transform: translateY(-2rem);
+    
+  }
+  /*Set Alarm*/
+  .showbox{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+  top:22%;
+    left:37%;
+    width:26rem;
+    height:15rem;
+    color:#18859a;
+    background: rgba(255,255,255,1);
+    border-radius: 5px;
+    animation: shake 800ms ease-in-out alternate infinite;
+    box-shadow: 0px 0px 50px rgba(0,0,0,0.6);
+    margin:auto;
+    z-index: 13;
+  }
+  .showbox-option{
+    color:#18859a;
+    justify-self: flex-end;
+    cursor: pointer;
+  }
+  #ddd{
+    font-size: 3rem;
+    padding:1rem;
+  }
+  .showbox-option:nth-child(2){
+      font-size: 2.5rem;
+  
+  }
+  

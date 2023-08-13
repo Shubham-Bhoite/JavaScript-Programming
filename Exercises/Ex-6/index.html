@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Password</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<div class="toast-container position-fixed top-0 start-0 p-3">
+  <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header rounded">
+      <img src="./logo.jpg" class="rounded me-2" width="25" alt="...">
+      <strong class="me-auto">Password copied successfully</strong>
+      <button type="button" class="btn-close" onlick="document.getElementById('liveToast').style.display= 'none'" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+  </div>
+</div>
+<body class="d-flex align-items-center bg-lightblue p-2">
+
+
+	
+  <div class="container d-flex justify-content-center align-items-center flex-column bg-blue py-4 ">
+    <h1 class="pb-4 text-light">Password Generator</h1>
+    <div class="d-flex justify-content-center mb-3">
+<input type="text" class="rounded border-0" id="disp" readonly="true">
+      <div class="d-absolute my-1 pt-1 bg-light" id="copy" style="margin-left:-35px;"><img src="https://cdn-icons-png.flaticon.com/512/1621/1621635.png" alt="copy" width="30" height="30"></div>
+      
+</div>
+	<div id="redio-cont" class="d-flex flex-column">
+		<div class="d-flex justify-content-between">
+    <label for="fup" class="text-light">Generate a funny Password</label>
+    <input name="radio" class="redio" id="fup" type="radio" value="0" checked>
+</div>
+		<div class="d-flex justify-content-between">
+<label for="wp" class="text-light">Generate a weak Password</label>
+    <input name="radio" class="redio" id="wp" type="radio" value="1">
+			</div>
+		<div class="d-flex justify-content-between">
+    <label for="sp" class="text-light">Generate a strong Password</label>
+    <input name="radio" class="redio" id="sp" type="radio" value="2">
+		</div>
+		<div class="d-flex justify-content-between">
+    <label for="ssp" class="text-light">Generate a super strong Password</label>
+    <input name="radio" class="redio" id="ssp" type="radio" value="3">
+</div>
+	</div>
+    <button id="btn" class="p3 rounded border-0 bg-primary text-light"><h4>generate</h4></button>
+  </div>
+</body>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+	<script src="script.js"></script>
+</html>

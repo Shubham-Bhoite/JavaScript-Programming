@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Alarm</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  
+</head>
+
+<body background="https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
+
+  <h1 id="heading" class="shadow">CLOCK</h1>
+     <div class="showbox" hidden>
+      <div class="col s12 m3"></div>
+      <div class="col s12 m6">
+        <h3>Set Alarm</h3>
+        <form>
+          <div class="input-field" >
+          <input type="text" id="elem-time" class="timepicker" >
+          <label for="elem-time">set time</label>
+          </div>
+        </form>
+        <div class="showbox-option" onclick=`${set()}`>ok</div>
+      </div>
+      <div class="col s12 m3"></div>
+    </div>
+  <div class="showbox" hidden>
+    <div id="ddd">Do you want to off alarm ?</div>
+      <div class="showbox-option" onclick="hider4(popUp[1]);audio.pause()">yes</div>
+  </div>
+  
+    <div class="container3">
+      <div class="clock2">
+        <div class="in">Hours :</div>
+        <div id="hours" class="timenum"></div>
+      </div><span class= "blink2">:</span>
+      <div class="clock2">
+        <div class="in">Minutes :</div>
+        <div id="minutes" class="timenum"></div>
+      </div><span class= "blink2">:</span>
+      <div class="clock2">
+        <span id="am"></span>
+        <div class="in">Seconds :</div>
+        <div id="seconds" class="timenum"></div>
+      </div>
+    </div>
+
+  
+  <button class="but4" onclick='`${check++};${am.classList.toggle("bye")}`'>Change Format</button>
+    <button class="but4" onclick='hider4(popUp[0]);'>Set Alarm</button>
+
+  <script src="script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+   
+</body>
+
+</html>
