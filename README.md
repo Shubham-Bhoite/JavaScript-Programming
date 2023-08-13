@@ -84,12 +84,9 @@
 
 - [Getters & Setters](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/getters%26setters.html)
 
+- [IIFE](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/IIFE.js)
 
-
-
-
-
-
+- [Destructuring](https://github.com/Shubham-Bhoite/JavaScript-Programming/blob/main/Lessons/Destructuring.js)
 
 
 ## Exercises:
@@ -102,4 +99,8 @@
 
 - [Hackerman Shubham](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-4)
 
-- [Todo List]()
+- [Todo List](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-5)
+
+- [Password Generator](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-6)
+
+- [Alarm Clock](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-7)
