@@ -1,5 +1,5 @@
 //clock global variables
-let audio = new Audio('beep.mp3');
+let audio = new Audio("./beep.mp3");
 let check = 0;
 let hours = document.getElementById("hours");
 let minutes = document.getElementById("minutes");
