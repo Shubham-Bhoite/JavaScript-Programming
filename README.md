@@ -104,3 +104,6 @@
 - [Password Generator](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-6)
 
 - [Alarm Clock](https://github.com/Shubham-Bhoite/JavaScript-Programming/tree/main/Exercises/Ex-7)
+
+## Instructor :
+CodeWithHarry
